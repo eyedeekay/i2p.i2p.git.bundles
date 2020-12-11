@@ -12,6 +12,6 @@ if [ -z $snark_dir ]; then
   fi
 fi
 
-$user cp -v $bundle_wd/i2psnark/*.bundle $snark_dir
+$user cp -v $bundle_wd/torrents/*.bundle $snark_dir
 sleep 2
-$user cp -v $bundle_wd/i2psnark/*.bundle.torrent $snark_dir
+$user cp -v $bundle_wd/torrents/*.bundle.torrent $snark_dir
