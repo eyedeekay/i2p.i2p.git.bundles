@@ -1,0 +1,10 @@
+
+pkg:
+
+bundle:
+     [java] Created:     i2p.i2p.0.9.48-3.bundle.torrent
+     [java] InfoHash:    ed0ddfabcfab0ad703b7a921db3d8dfda12c007c
+     [java] Magnet:      magnet:?xt=urn:btih:ed0ddfabcfab0ad703b7a921db3d8dfda12c007c&dn=i2p.i2p.0.9.48-3.bundle&tr=http://tracker2.postman.i2p/announce.php
+
+BUILD SUCCESSFUL
+Total time: 50 seconds
